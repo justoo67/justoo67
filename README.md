@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Justin
-- 🌱 I’m currently learning Bsc Software Engineering at Murang'a University of Technology
-- 👀 I’m interested in Full-tack Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 636justin@gmail.com
-- ⚡ Fun fact: ...
 
 <!---
 justoo67/justoo67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-- 👋 Hi, I’m Justin<br>- 🌱 I’m currently learning Bsc Software Engineering at Murang'a University of Technology<br>- 👀 I’m interested in Full-tack Development<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me 636justin@gmail.com<br>- ⚡ Fun fact: ...<br><br>---><br>
+- 👋 Hi, I’m Justin<br>- 🌱 I’m currently learning Bsc Software Engineering at Murang'a University of Technology<br>- 👀 I’m interested in Full-tack Development<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me 636justin@gmail.com<br>- ⚡ Fun fact: ...<br><br>
 
 
 ## 🌐 Socials:
