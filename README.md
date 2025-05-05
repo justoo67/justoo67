@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-- 👋 Hi, I’m Justin<br>- 🌱 I’m currently learning Bsc Software Engineering at Murang'a University of Technology<br>- 👀 I’m interested in Full-tack Development<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me 636justin@gmail.com<br>- ⚡ Fun fact: ...<br><br>
+- 👋 Hi, I’m Justin<br>- 🌱 I’m a Software Engineer<br>- 👀 I’m interested in Full-tack Development<br>- 💞️ I’m looking to collaborate on open source projects ...<br>- 📫 You can reach me at 636justin@gmail.com<br>- ⚡
 
 
 ## 🌐 Socials:
