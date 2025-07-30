@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-- 👋 Hi, I’m Justin<br>- 🌱 I’m a Software Engineer<br>- 👀 I’m interested in Full-tack Development<br>- 💞️ I’m looking to collaborate on open source projects ...<br>- 📫 You can reach me at 636justin@gmail.com<br>- ⚡
+- 👋 Hi, I’m Justin<br>- 🌱  I’m a Full-tack Developer<br>- 💞️ I’m looking to collaborate on open source projects ...<<br>- ⚡
 
 
 ## 🌐 Socials:
