@@ -1,7 +1,8 @@
-<h3 align="center">Hi 👋, I'm Justin</h3>
+<h3 align="center">Hi 👋, I'm Justo</h3>
 <h4 align="center">A passionate fullstack developer</h4>
 
 ---
 
-
-[![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=justoo67&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+GitHub Contribution Stats
+![Contribution Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=justoo67&theme=github_dark)
+![Contribution Radar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justoo67&theme=github_dark)
