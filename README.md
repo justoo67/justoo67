@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm Justin
 </h3>
-<h4 align="center">A passionate fullstack developer</h4>
+<h4 align="center">A passionate developer</h4>
 
 ---
 
