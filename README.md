@@ -7,7 +7,7 @@ A passionate software engineer
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justoo67&theme=default&hide_border=true" alt="GitHub Streak" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
