@@ -7,7 +7,7 @@ A passionate software engineer
 ## 📊 GitHub Stats
 
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=justoo67&theme=github_dark)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=justoo67&theme=github_dark" alt="Profile summary" </img>
 </p>
 
 <p align="center">
