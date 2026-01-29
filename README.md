@@ -7,7 +7,7 @@ A passionate software engineer
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justoo67&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justoo67&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -18,5 +18,5 @@ A passionate software engineer
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justoo67&theme=github_dark" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=justoo67&theme=github_dark" alt="Most Used Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=justoo67&theme=github_dark" alt="Most Used Languages" />
 </p>
