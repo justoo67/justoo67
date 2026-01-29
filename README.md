@@ -1,12 +1,21 @@
-<h1 align="center">Hi 👋, I'm Justin</h1>
-<h3 align="center">A passionate software engineer</h3>
+# Hi 👋, I'm Justin
 
--  All of my projects are available at [https://justin-kiplangat.vercel.app/](https://justin-kiplangat.vercel.app/)
+### A passionate software engineer
 
--  How to reach me **justinkirui3@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=justoo67&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justoo67&show_icons=true&locale=en" alt="justoo67" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justoo67&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 Connect with me
+
+[Add your social links here]
